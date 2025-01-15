@@ -14,7 +14,6 @@ Ubuntu 22.04
 ```bash
 curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 sudo apt-get install -y nodejs
-sudo apt-get install yarn
 npm install pm2 -g
 
 git clone https://github.com/SynergyNodes/sui-bridge-dashboard.git
@@ -29,8 +28,8 @@ NEXT_PUBLIC_DEFAULT_NETWORK=MAINNET_BRIDGE
 
 # Save the file
 
-yarn
-yarn build
+npm i
+yarn run build
 pm2 start ecosystem.config.js
 ```
 
