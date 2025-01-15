@@ -34,7 +34,7 @@ yarn build
 pm2 start ecosystem.config.js
 ```
 
-Open http://<ip-address-of-this-server>:3000 with your browser to see the result.
+Open ``http://<ip-address-of-this-server>:3000`` with your browser to see the result.
 
 ## Preview
 
