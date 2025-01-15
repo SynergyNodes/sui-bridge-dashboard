@@ -2,6 +2,8 @@
 
 NOTE: Historical Data is Temporary. The Data is reset if you refresh the webpage.
 
+LIVE PREVIEW: https://sui-bridge-dashboard.synergynodes.com
+
 ## Features:
 * Status
 * Uptime
