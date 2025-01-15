@@ -15,7 +15,7 @@ Ubuntu 22.04
 curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 sudo apt-get install -y nodejs
 sudo apt-get install yarn
-yarn global add pm2
+npm install pm2 -g
 
 git clone https://github.com/SynergyNodes/sui-bridge-dashboard.git
 cd sui-bridge-dashboard
