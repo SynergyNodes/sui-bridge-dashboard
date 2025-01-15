@@ -1,8 +1,20 @@
 # Sui Bridge Dashboard Monitor
 
+NOTE: Historical Data is Temporary. The Data is reset if you refresh the webpage.
+
+## Features:
+* Status
+* Uptime
+* Gas Balance
+* Cache Performance
+* Ethereum Network Activity
+* Sui Network Activity
+* Gas Balance History
+* Cache Hit Ratio History
+* ETH Action Verifier Data
+* SUI Action Verifier Data
+
 ## System Requirements
-
-
 ```
 2 vCPU
 4 GB RAM
